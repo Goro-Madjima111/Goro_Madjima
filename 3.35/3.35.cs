@@ -1,0 +1,12 @@
+﻿Console.Write("Введите a: ");
+double a = double.Parse(Console.ReadLine());
+Console.Write("Введите b: ");
+double b = double.Parse(Console.ReadLine());
+Console.Write("Введите c: ");
+double c = double.Parse(Console.ReadLine());
+Console.Write("Введите d: ");
+double d = double.Parse(Console.ReadLine());
+Console.Write("Введите e: ");
+double e = double.Parse(Console.ReadLine());
+Console.Write("Введите f: ");
+double f = double.Parse(Console.ReadLine());
