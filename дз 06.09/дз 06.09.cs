@@ -1,0 +1,10 @@
+﻿byte a = byte.Parse(Console.ReadLine());
+Console.WriteLine(a);
+uint b = (uint)a;
+Console.WriteLine(b);
+int c = (int)b;
+Console.WriteLine(c);
+long d = (long)c;
+Console.WriteLine(d);
+double e = (double)d;
+Console.WriteLine(e);
